@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+}
+table, td, th {
+    border: 2px solid rgb(199, 66, 88);
+    border-collapse: collapse;
+    border-style: ridge;
+}
+.abc {
+    background-color: aquamarine;
+}
+td, tr {
+    padding: 5px;
+}
+table {
+    width: 23%;
+    font-size: 24px;
+    margin: auto;
+}
+h3 {
+    margin: auto;
+    width: 10%;
+    display: block;
+}
+img {
+    height: 200px;
+    width: 150px;
+    object-fit: cover;
+}
